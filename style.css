@@ -21,6 +21,9 @@ box-sizing: border-box;
 margin: 0;
 padding: 0;
 }
+body{
+    background-image: url(./images/bg-pattern-desktop.svg);
+}
 main{
     display: flex;
     overflow-x: hidden;
@@ -35,7 +38,6 @@ main{
 #card{
     padding:17% 10%;
     font-family: var(--Font-family);
-    background-image: url(./images/bg-pattern-desktop.svg);
 }
 span{
 color: var(--Desaturated-Red);
