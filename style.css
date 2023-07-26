@@ -35,7 +35,7 @@ main{
 #card{
     padding:17% 10%;
     font-family: var(--Font-family);
-    
+    background-image: url(./images/bg-pattern-desktop.svg);
 }
 span{
 color: var(--Desaturated-Red);
